@@ -4,7 +4,6 @@
 
 I build at the intersection of technology, people, and business. My work moves between product strategy, hands-on building, and the question I keep coming back to: how do we turn complex problems into useful systems people can actually use?
 
-Currently, I am an MBA candidate at UC Berkeley Haas, exploring career options and building with AI.
 
 ## Proof of builds
 
